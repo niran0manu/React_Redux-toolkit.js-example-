@@ -1,0 +1,26 @@
+.login__button{
+    width: 300px;
+    height: 40px;
+    border:none !important;
+    border-radius:  50px;
+    margin: 10px;
+    padding-left:15px;
+    font: size 17px;
+    background-color:#af85fe;
+    color:cornsilk;
+    cursor: pointer;
+    
+}
+
+.logout__button{
+    width: 300px;
+    height: 40px;
+    border:none !important;
+    border-radius:  50px;
+    margin: 10px;
+    padding-left:15px;
+    font: size 17px;
+    background-color:black;
+    color:whitesmoke;
+    cursor: pointer;    
+}
